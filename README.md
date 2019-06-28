@@ -27,6 +27,8 @@ for number in 4..<8{
 print(myNum)
 ```
 
+23
+
 ***
 ## Question 2
 
@@ -60,6 +62,8 @@ for l in 1...100 where _ < 101 {
 }
 ```
 
+B and C
+
 ***
 ## Question 3
 
@@ -72,6 +76,7 @@ for _ in 1...10{
     }
 }
 ```
+100 (10x10)
 
 ***
 ## Question 4
@@ -117,5 +122,6 @@ while t == t{
     t += 1
 }
 ```
+A and D
 
 ***
